@@ -1,0 +1,10 @@
+BasedOnStyle: Google
+UseTab: Never
+IndentWidth: 4
+AccessModifierOffset: -4
+ColumnLimit: 110
+BinPackParameters: false
+SortIncludes: false
+Standard: c++17
+DerivePointerAlignment: false
+PointerAlignment: Left
